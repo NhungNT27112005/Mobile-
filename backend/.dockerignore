@@ -1,0 +1,7 @@
+node_modules
+.local
+.env
+.env.*
+coverage
+*.log
+README.md

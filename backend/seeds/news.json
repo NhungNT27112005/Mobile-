@@ -1,0 +1,81 @@
+{
+  "categories": [
+    {
+      "id": "technology",
+      "name": "Công nghệ",
+      "description": "Tin về công nghệ và ứng dụng."
+    },
+    {
+      "id": "education",
+      "name": "Giáo dục",
+      "description": "Học tập, sách và đời sống sinh viên."
+    },
+    {
+      "id": "life",
+      "name": "Đời sống",
+      "description": "Thói quen và cuộc sống cộng đồng."
+    }
+  ],
+  "articles": [
+    {
+      "id": "ai-learning",
+      "title": "AI thay đổi cách sinh viên học tập",
+      "categoryId": "technology",
+      "summary": "Trí tuệ nhân tạo mở ra những cách tiếp cận kiến thức và tổ chức việc học.",
+      "content": "Trí tuệ nhân tạo có thể hỗ trợ sinh viên giải thích khái niệm, xây dựng kế hoạch và luyện tập.\n\nNgười học cần kiểm tra lại thông tin và tự giải quyết bài tập để nắm chắc kiến thức. Công cụ hỗ trợ phát huy hiệu quả khi người dùng hiểu được kết quả mình nhận.\n\nĐây là bài viết mẫu của NewsHub để thực hành tải danh sách, đọc chi tiết và lưu ngoại tuyến.",
+      "sourceName": "NewsHub · Dữ liệu mẫu",
+      "publishedAt": "2026-10-26T08:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "id": "mobile-development",
+      "title": "Xu hướng phát triển ứng dụng di động",
+      "categoryId": "technology",
+      "summary": "Tách giao diện, trạng thái và dữ liệu giúp ứng dụng dễ mở rộng.",
+      "content": "Một ứng dụng di động có thể được chia thành lớp giao diện, lớp xử lý và lớp dữ liệu.\n\nJetpack Compose mô tả giao diện theo trạng thái. ViewModel xử lý thao tác, còn Repository phụ trách truy cập API hoặc dữ liệu cục bộ.\n\nBài viết này là dữ liệu mẫu phục vụ học tập, không phải bản tin cập nhật từ một tòa soạn.",
+      "sourceName": "NewsHub · Dữ liệu mẫu",
+      "publishedAt": "2026-10-25T08:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "id": "reading-habits",
+      "title": "Sinh viên và thói quen đọc sách",
+      "categoryId": "education",
+      "summary": "Một khoảng thời gian đọc sách đều đặn giúp hình thành thói quen học tập.",
+      "content": "Bạn có thể bắt đầu bằng một cuốn sách phù hợp với sở thích và đọc một ít mỗi ngày.\n\nGhi lại ý chính sau mỗi chương giúp bạn kết nối kiến thức và nhớ lâu hơn. Trao đổi với bạn bè cũng là cách mở rộng góc nhìn.\n\nNội dung mẫu dành cho các màn Home, Search và Article Detail.",
+      "sourceName": "NewsHub · Dữ liệu mẫu",
+      "publishedAt": "2026-10-24T08:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "id": "open-library",
+      "title": "Thư viện mở và cơ hội tự học",
+      "categoryId": "education",
+      "summary": "Nguồn học liệu mở giúp sinh viên chủ động tìm hiểu kiến thức mới.",
+      "content": "Học liệu mở mang đến nhiều tài liệu cho việc học chủ động.\n\nKhi lựa chọn tài liệu, hãy chú ý tác giả, thời điểm xuất bản và mức độ phù hợp với mục tiêu học tập. Một kế hoạch nhỏ có thể giúp bạn duy trì việc tự học lâu dài.\n\nĐây là nội dung minh họa được lưu trong cơ sở dữ liệu NewsHub.",
+      "sourceName": "NewsHub · Dữ liệu mẫu",
+      "publishedAt": "2026-10-23T08:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "id": "green-city",
+      "title": "Những hành động nhỏ cho thành phố xanh",
+      "categoryId": "life",
+      "summary": "Các thay đổi nhỏ trong sinh hoạt có thể góp phần bảo vệ môi trường.",
+      "content": "Mang theo bình nước cá nhân và hạn chế đồ dùng một lần là những việc có thể bắt đầu ngay.\n\nCác hoạt động cộng đồng tạo cơ hội để mọi người cùng chăm sóc không gian sống. Mỗi người có thể lựa chọn hành động phù hợp với điều kiện của mình.\n\nBài viết mẫu để kiểm tra chức năng lọc danh mục Đời sống.",
+      "sourceName": "NewsHub · Dữ liệu mẫu",
+      "publishedAt": "2026-10-22T08:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "id": "study-balance",
+      "title": "Cân bằng học tập và nghỉ ngơi",
+      "categoryId": "life",
+      "summary": "Sắp xếp thời gian học và nghỉ giúp duy trì nhịp sinh hoạt phù hợp.",
+      "content": "Một lịch học có khoảng nghỉ giúp bạn chủ động hơn với công việc trong ngày.\n\nBạn có thể chia mục tiêu lớn thành các nhiệm vụ nhỏ và dành thời gian cho hoạt động yêu thích. Điều chỉnh kế hoạch theo tình hình thực tế giúp duy trì thói quen.\n\nNội dung này là dữ liệu minh họa cho ứng dụng.",
+      "sourceName": "NewsHub · Dữ liệu mẫu",
+      "publishedAt": "2026-10-21T08:00:00.000Z",
+      "imageUrl": null
+    }
+  ]
+}
